@@ -1,1 +1,2 @@
 This website shall include html and css files.
+This website shall include photos of wildcats
